@@ -1,5 +1,4 @@
 ## Olá, meu nome é Marcelo Costa :wave:
-- /play tada
 
 - :mortar_board: Cursando bacharelado em Sistemas de Informação.
 - :octocat: Focando atualmento ao desenvolvimento Front-End.
