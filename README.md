@@ -2,7 +2,7 @@
 
 - :mortar_board: Cursando bacharelado em Sistemas de Informação.
 - :octocat: Focando atualmento ao desenvolvimento Front-End.
-- :seedling: Atualmente estou estudando: JavaScript.
+- :seedling: Atualmente estou estudando: JavaScript e React .
 
 ### Mídias Sociais:
 
